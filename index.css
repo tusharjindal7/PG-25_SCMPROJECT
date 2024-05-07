@@ -1,0 +1,8 @@
+.catimages:hover
+{
+    transform: scale(1.1);
+    transition: 1s;
+    opacity: 0.8;
+    filter:contrast(1.5)
+
+}
