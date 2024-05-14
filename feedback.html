@@ -94,28 +94,7 @@
 </head>
 
 <body>
-    <div class="container">
-        <h2>Awesome Feedback Form</h2>
-        <form>
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-
-            <label for="feedback">Feedback:</label>
-            <textarea id="feedback" name="feedback" rows="4" required></textarea>
-
-            <button type="button" onclick="showFeedbackMessage('😄', 'Awesome!')">😄</button>
-            <button type="button" onclick="showFeedbackMessage('😐', 'Okay')">😐</button>
-            <button type="button" onclick="showFeedbackMessage('😢', 'Not Good')">😢</button>
-
-            <div id="feedback-message" style="margin-top: 10px;"></div>
-            <form action="pranav.html">
-                <button><a href ="pranav.html">SUBMIT FEEDBACK</a></button>
-            </form>
-            </form> 
-    </div>
+    
 
     <script>
         function showFeedbackMessage(emoji, message) {
