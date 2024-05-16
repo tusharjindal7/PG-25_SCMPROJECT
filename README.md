@@ -7,7 +7,8 @@ We are Group of Four Members mentioned below:
 • AASTHA SAHI : 2310991407
 • SARABJOT SINGH : 2310991411
 • TUSHAR JINDAL : 2310991425
-• PRANAV GOYAL : 2310991426 Our dedication and expertise have been instrumental in making this project a reality.
+• PRANAV GOYAL : 2310991426 
+Our dedication and expertise have been instrumental in making this project a reality.
 
 Benefits of Eduverse: 
 • Enhanced Learning Experience: Experience education like never before with interactive content, personalized learning paths, and collaborative opportunities that make learning engaging and effective. 
@@ -47,3 +48,6 @@ Join the Eduverse Community:
 Acknowledgments: 
 We extend our gratitude to the educators, content creators, and learners who have contributed to making Eduverse a vibrant learning community. 
 Together, we can unlock the full potential of education and empower learners worldwide.
+
+
+
